@@ -1,0 +1,11 @@
+type: url_regex
+parameters:
+  regular_expressions: [
+    "https://www.reddit.com/r/soccerdiscussions/",
+    "https:\\/\\/www\\.reddit\\.com\\/r\\/soccerdiscussions\\/comments\\/.*\\/.*\\/",
+    "hhttps:\\/\\/www\\.reddit\\.com\\/r\\/soccerdiscussions\\/[^\\/]*",
+    "https:\\/\\/www\\.reddit\\.com\\/r\\/soccerdiscussions\\/top\\/.*",
+    "https:\\/\\/www\\.reddit\\.com\\/r\\/soccerdiscussions\\/new\\/.*",
+    "https://www.reddit.com/r/soccerdiscussions/top/?sort=top&t=all",
+    "https://www.reddit.com/r/soccerdiscussions/new/",
+    ]
